@@ -1,0 +1,8 @@
+# Build artifacts
+*.o
+chip8
+
+# macOS
+.DS_Store
+
+tags
